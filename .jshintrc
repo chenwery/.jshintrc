@@ -84,9 +84,9 @@
   //"plusplus": false,
 
   //代码行后面有多余的空格报错
-  //(默认)false:报错
-  //true:不报错
-  //"trailing": true,
+  //(默认)false:不报错
+  //true:报错
+  "trailing": true,
 
   //使用了未定义的变量
   //(默认)false:不报错
