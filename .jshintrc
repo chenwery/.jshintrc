@@ -318,8 +318,8 @@
 
   //TODO
   //混用tab和空格时是否报错(为了防止tab与空格混用，建议设为false或默认不设置)
-  //(默认)false:可混用
-  //true:可以禁止tab和空格混用
+  //(默认)false:不可混用
+  //true:可混用
   "smarttabs": false,
 
   //允许ecmascript5语法，例如：getters/setters
