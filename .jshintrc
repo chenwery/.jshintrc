@@ -170,7 +170,8 @@
     "angular": false,
     "exports": false,
     "process":false,
-    "__dirname":false
+    "__dirname":false,
+    "define": false
   },
 
   //与globalsde的作用大同小异
