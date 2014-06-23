@@ -1,9 +1,11 @@
 example-of-.jshintrc-file
 =========================
 
-个人jshint配置及jshint各配置的中文解释
-
 My .jshintrc file 
+
+
+jshint配置参数解释
+
 
 ####Reference：
 
