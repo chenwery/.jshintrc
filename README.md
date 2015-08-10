@@ -1,8 +1,5 @@
-example-of-.jshintrc-file
+.jshintrc
 =========================
-
-My .jshintrc file 
-
 
 jshint配置参数解释
 
